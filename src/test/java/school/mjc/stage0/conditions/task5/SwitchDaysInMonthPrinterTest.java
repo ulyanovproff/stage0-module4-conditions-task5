@@ -12,7 +12,8 @@ import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class SwitchDaysInMonthPrinterTest extends BaseIOTest {
+class
+SwitchDaysInMonthPrinterTest extends BaseIOTest {
 
     @Test
     void amountOfDaysPrintDaysInJune() {
